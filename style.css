@@ -1,0 +1,48 @@
+
+h4 {
+    margin-bottom: 5px; margin-top: 0;/* Adjust this value to reduce space below h1 */
+}
+
+h1 {
+        margin-bottom: 2px;/* Adjust this value to reduce space above h2 */
+}
+h3{
+    margin-top: 0;
+}
+
+html{
+    background-color: rgb(238, 241, 223);
+    
+}
+
+p{
+    text-align: justify;
+    margin-right: 7%;
+    margin-top: 0.05px;
+}
+.passport-picture {
+    position: absolute;
+    top: 40px; /* Adjust this value to your preference */
+    right: 50px; /* Adjust this value to your preference */
+    width: 175px; /* Adjust the width of the picture */
+    height: 175px; /* Adjust the height of the picture */
+    border: 2px solid #000; /* Optional: Add border for styling */
+    border-radius: 50%; /* Optional: Make the picture circular */
+}
+.paragraph-headings{
+    color: rgb(36, 36, 86);
+    margin-top: 10px;
+    margin-bottom: 2px
+  }
+  ul{
+    text-align: justify;
+  }
+
+.a4-sheet {
+    position: relative;
+    width: 794px;
+    height:auto;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    box-sizing: border-box;}
